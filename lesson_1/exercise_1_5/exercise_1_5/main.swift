@@ -13,7 +13,7 @@ print("Các số Armstrong nhỏ hơn 1000 là: ")
 findArmstrongNumberLessThan1000()
 
 
-//// MARK: Tính x lũy thừa y (x^y)
+// MARK: Tính x lũy thừa y (x^y)
 func power(x: Int, y: Int) -> Int {
     
     // Nếu số mũ bằng 0
